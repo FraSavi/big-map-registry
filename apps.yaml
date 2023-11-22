@@ -531,3 +531,18 @@ NanoBattVR:
     categories:
         - neb
         - virtual-reality
+
+Perex:
+  metadata:
+    title: perex 
+    description: Python Environment for Relating Electrochemistry and XAS data
+    authors: Lucia Perez Ramirez
+    affiliations:  Synchrotron Soleil
+    external_url: https://github.com/GhostDeini/perex
+    documentation_url: https://github.com/GhostDeini/perex/blob/main/README.md
+    state: stable
+    version: '5.1.0'
+  categories:
+    -  data-analysis
+    -  utilities
+ 
